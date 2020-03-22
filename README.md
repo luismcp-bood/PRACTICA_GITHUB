@@ -1,5 +1,4 @@
-#hola
-#nuevo
+#HOLA ERROR
 # PRACTICA_GITHUB
 # kevin lopez 
 Actividad Práctica (30% del primer corte)
@@ -7,3 +6,4 @@ Actividad Práctica (30% del primer corte)
 # modificado ejemplo2 ec
 #modificar fucionar
 #modificado luis
+#NUEVA MOFIFICACION
